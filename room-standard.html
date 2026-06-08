@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
-<a class="skip-link" href="#main">Skip to content</a>
+<a class="skip-link" href="#main" data-i18n="nav.skip">Skip to content</a>
 <header class="site-header is-solid">
   <div class="container">
     <a class="brand" href="index.html" aria-label="Hotel Union — home">
@@ -29,6 +29,7 @@
         <li><a href="rooms.html" aria-current="page" data-i18n="nav.rooms">Rooms</a></li>
         <li><a href="about.html" data-i18n="nav.about">Our Story</a></li>
         <li><a href="experiences.html" data-i18n="nav.experiences">Experiences</a></li>
+        <li><a href="for-guests.html" data-i18n="nav.forguests">For Guests</a></li>
         <li><a href="booking.html" data-i18n="nav.contact">Contact</a></li>
       </ul>
     </nav>
@@ -53,9 +54,10 @@
   <a href="rooms.html" data-i18n="nav.rooms">Rooms</a>
   <a href="about.html" data-i18n="nav.about">Our Story</a>
   <a href="experiences.html" data-i18n="nav.experiences">Experiences</a>
+  <a href="for-guests.html" data-i18n="nav.forguests">For Guests</a>
   <a href="booking.html" data-i18n="nav.contact">Contact</a>
   <div class="mobile-nav__foot">
-    <a class="btn btn--block" href="booking.html" data-i18n="nav.book" style="font-size:.8rem">Book Now</a>
+    <a class="btn btn--light btn--block" href="booking.html" data-i18n="nav.book" style="font-size:.8rem">Book Now</a>
     <div style="display:flex;gap:18px;margin-top:8px">
       <button data-lang-option="en">EN</button><button data-lang-option="cs">CZ</button><button data-lang-option="de">DE</button>
     </div>
@@ -128,6 +130,10 @@
       <a class="g-span-6" href="https://www.hotelunion.cz/wp-content/uploads/2023/10/DBL-bath3.webp" data-lightbox><img src="https://www.hotelunion.cz/wp-content/uploads/2023/10/DBL-bath3-700x466.webp" alt="" loading="lazy"></a>
       <a class="g-span-4" href="https://www.hotelunion.cz/wp-content/uploads/2023/10/DBL-bath2.webp" data-lightbox><img src="https://www.hotelunion.cz/wp-content/uploads/2023/10/DBL-bath2-700x466.webp" alt="" loading="lazy"></a>
       <a class="g-span-4" href="https://www.hotelunion.cz/wp-content/uploads/2023/10/DBL-bath1.webp" data-lightbox><img src="https://www.hotelunion.cz/wp-content/uploads/2023/10/DBL-bath1-700x466.webp" alt="" loading="lazy"></a>
+      <a class="g-span-4" href="assets/img/rooms/6.jpg" data-lightbox><img src="assets/img/rooms/6.jpg" alt="" loading="lazy"></a>
+      <a class="g-span-6" href="assets/img/rooms/7.jpg" data-lightbox><img src="assets/img/rooms/7.jpg" alt="" loading="lazy"></a>
+      <a class="g-span-4" href="assets/img/interier/16.jpg" data-lightbox><img src="assets/img/interier/16.jpg" alt="" loading="lazy"></a>
+      <a class="g-span-4" href="assets/img/bathroom/5.jpg" data-lightbox><img src="assets/img/bathroom/5.jpg" alt="" loading="lazy"></a>
     </div>
   </div>
 </section>
@@ -155,6 +161,7 @@
         <a href="rooms.html" data-i18n="nav.rooms">Rooms</a>
         <a href="about.html" data-i18n="nav.about">Our Story</a>
         <a href="experiences.html" data-i18n="nav.experiences">Experiences</a>
+        <a href="for-guests.html" data-i18n="nav.forguests">For Guests</a>
         <a href="booking.html" data-i18n="nav.contact">Contact</a>
       </div>
       <div class="footer-col">
@@ -179,8 +186,8 @@
   </div>
 </footer>
 <div class="cookie" role="dialog" aria-label="Cookie notice">
-  <p>This site uses cookies to give you the best possible experience. By continuing, you agree to our use of cookies.</p>
-  <div class="cookie__actions"><button class="btn" data-cookie-ok style="font-size:.7rem;padding:12px 24px">Accept</button><a class="btn btn--outline" href="#" style="font-size:.7rem;padding:12px 24px">Settings</a></div>
+  <p data-i18n="cookie.text">This site uses cookies to give you the best possible experience. By continuing, you agree to our use of cookies.</p>
+  <div class="cookie__actions"><button class="btn" data-cookie-ok data-i18n="cookie.accept" style="font-size:.7rem;padding:12px 24px">Accept</button><a class="btn btn--outline" href="#" data-i18n="cookie.settings" style="font-size:.7rem;padding:12px 24px">Settings</a></div>
 </div>
 <script src="assets/i18n.js"></script>
 <script src="assets/main.js"></script>

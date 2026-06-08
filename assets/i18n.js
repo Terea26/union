@@ -37,7 +37,7 @@ const I18N = {
 
     "rooms.eyebrow": "Accommodation",
     "rooms.title": "Rooms & Suites",
-    "rooms.sub": "Fifty-seven individually appointed rooms, each carrying the warmth of the building's Art Nouveau heritage.",
+    "rooms.sub": "Sixty individually appointed rooms, each carrying the warmth of the building's Art Nouveau heritage.",
     "rooms.single": "Single Room", "rooms.standard": "Standard Double", "rooms.deluxe": "Deluxe Double", "rooms.triple": "Triple Room",
     "rooms.single.d": "A serene retreat for the solo traveller, overlooking our peaceful courtyard.",
     "rooms.standard.d": "Generous double comfort with views over the square or Jaromírova street.",
@@ -81,7 +81,7 @@ const I18N = {
     "about.lead": "More than a hotel — a witness to a century of Prague history.",
     "about.p1": "At the dawn of the 20th century, Anna and Josef Rejzek acquired land in the Nusle valley and commissioned architect Jaroslav Benedikt to design a hotel in the flowing Art Nouveau style. Hotel Union opened its doors in 1910.",
     "about.p2": "Beginning with just eight rooms and apartments, the house grew to 54 rooms by 1930. In 1968, within these very walls, writer Ludvík Vaculík composed \"Two Thousand Words\" — one of the defining manifestos of the Prague Spring.",
-    "about.p3": "Nationalised in 1959, the hotel was returned to the Rejzek family in 1991 and lovingly restored. Today, under the third generation, Hotel Union offers 57 rooms and suites, a restaurant and a wellness centre — its Art Nouveau soul carefully preserved.",
+    "about.p3": "Nationalised in 1959, the hotel was returned to the Rejzek family in 1991 and lovingly restored. Today, under the third generation, Hotel Union offers 60 rooms and suites, a restaurant and a wellness centre — its Art Nouveau soul carefully preserved.",
     "about.t1": "Designed by Jaroslav Benedikt", "about.t1d": "An authentic Art Nouveau landmark of the Prague Monument Zone.",
     "about.t2": "A Prague Spring Manifesto", "about.t2d": "Where \"Two Thousand Words\" was written in June 1968.",
     "about.t3": "Three Generations of Family", "about.t3d": "Independently run by the Rejzek family since 1910.",
@@ -92,7 +92,7 @@ const I18N = {
     "exp.dining.t": "Restaurant & Dining",
     "exp.dining.p": "Our spacious, elegant restaurant serves a generous selection of international dishes alongside Czech favourites. Begin with breakfast, return for a relaxed dinner in surroundings that echo the building's heritage.",
     "exp.parking.t": "Parking & Practicalities",
-    "exp.parking.p": "City parking is available directly at the hotel, charged daily from 8:00 to 20:00 at 30 CZK per hour. Our team is happy to help with transfers, tickets and tips for exploring the city.",
+    "exp.parking.p": "Park directly in front of the hotel along the white line, paying via the CityPark app or the machine outside — and free of charge from 8 PM to 8 AM and all weekend. Our reception is glad to help with the app, airport transfers, tickets and tips for exploring the city.",
 
     "contact.eyebrow": "Reservations & Enquiries",
     "contact.title": "Reserve Your Stay",
@@ -140,7 +140,7 @@ const I18N = {
 
     "rooms.eyebrow": "Ubytování",
     "rooms.title": "Pokoje a apartmá",
-    "rooms.sub": "Padesát sedm individuálně zařízených pokojů, z nichž každý nese vřelost secesního odkazu budovy.",
+    "rooms.sub": "Šedesát individuálně zařízených pokojů, z nichž každý nese vřelost secesního odkazu budovy.",
     "rooms.single": "Jednolůžkový pokoj", "rooms.standard": "Standardní dvoulůžkový", "rooms.deluxe": "Deluxe dvoulůžkový", "rooms.triple": "Třílůžkový pokoj",
     "rooms.single.d": "Klidné útočiště pro cestovatele samotáře s výhledem do našeho tichého dvora.",
     "rooms.standard.d": "Pohodlí dvoulůžkového pokoje s výhledem na náměstí nebo Jaromírovu ulici.",
@@ -184,7 +184,7 @@ const I18N = {
     "about.lead": "Víc než hotel — svědek století pražské historie.",
     "about.p1": "Na úsvitu 20. století koupili Anna a Josef Rejzkovi pozemek v nuselském údolí a pověřili architekta Jaroslava Benedikta návrhem hotelu v secesním stylu. Hotel Union otevřel své dveře v roce 1910.",
     "about.p2": "S pouhými osmi pokoji a apartmá na začátku se dům do roku 1930 rozrostl na 54 pokojů. V roce 1968 právě v těchto zdech spisovatel Ludvík Vaculík sepsal „Dva tisíce slov“ — jeden z klíčových manifestů pražského jara.",
-    "about.p3": "Po znárodnění v roce 1959 byl hotel v roce 1991 vrácen rodině Rejzkových a s láskou zrekonstruován. Dnes nabízí Hotel Union pod vedením třetí generace 57 pokojů a apartmá, restauraci a wellness — se secesní duší pečlivě zachovanou.",
+    "about.p3": "Po znárodnění v roce 1959 byl hotel v roce 1991 vrácen rodině Rejzkových a s láskou zrekonstruován. Dnes nabízí Hotel Union pod vedením třetí generace 60 pokojů a apartmá, restauraci a wellness — se secesní duší pečlivě zachovanou.",
     "about.t1": "Návrh Jaroslava Benedikta", "about.t1d": "Autentická secesní památka pražské památkové zóny.",
     "about.t2": "Manifest pražského jara", "about.t2d": "Kde byly v červnu 1968 sepsány „Dva tisíce slov“.",
     "about.t3": "Tři generace rodiny", "about.t3d": "Nezávisle vedený rodinou Rejzkových od roku 1910.",
@@ -195,7 +195,7 @@ const I18N = {
     "exp.dining.t": "Restaurace",
     "exp.dining.p": "Naše prostorná, elegantní restaurace nabízí bohatý výběr mezinárodních jídel i českých oblíbených klasik. Začněte snídaní, vraťte se na klidnou večeři v prostředí, které odráží odkaz budovy.",
     "exp.parking.t": "Parkování a praktické informace",
-    "exp.parking.p": "Městské parkování je k dispozici přímo u hotelu, zpoplatněno denně od 8:00 do 20:00 sazbou 30 Kč za hodinu. Náš tým rád pomůže s transfery, vstupenkami i tipy na objevování města.",
+    "exp.parking.p": "Zaparkujte přímo před hotelem na bílé čáře a plaťte přes aplikaci CityPark nebo u automatu před hotelem — zdarma je parkování od 20:00 do 8:00 a celý víkend. Recepce vám ráda pomůže s aplikací, transferem z/na letiště, vstupenkami i tipy na objevování města.",
 
     "contact.eyebrow": "Rezervace a dotazy",
     "contact.title": "Rezervujte si pobyt",
@@ -243,7 +243,7 @@ const I18N = {
 
     "rooms.eyebrow": "Unterkunft",
     "rooms.title": "Zimmer & Suiten",
-    "rooms.sub": "Siebenundfünfzig individuell eingerichtete Zimmer, jedes mit der Wärme des Jugendstil-Erbes des Hauses.",
+    "rooms.sub": "Sechzig individuell eingerichtete Zimmer, jedes mit der Wärme des Jugendstil-Erbes des Hauses.",
     "rooms.single": "Einzelzimmer", "rooms.standard": "Standard-Doppelzimmer", "rooms.deluxe": "Deluxe-Doppelzimmer", "rooms.triple": "Dreibettzimmer",
     "rooms.single.d": "Ein ruhiger Rückzugsort für Alleinreisende mit Blick auf unseren stillen Innenhof.",
     "rooms.standard.d": "Großzügiger Doppelkomfort mit Blick auf den Platz oder die Jaromírova-Straße.",
@@ -287,7 +287,7 @@ const I18N = {
     "about.lead": "Mehr als ein Hotel — ein Zeuge eines Jahrhunderts Prager Geschichte.",
     "about.p1": "Zu Beginn des 20. Jahrhunderts erwarben Anna und Josef Rejzek Land im Nusle-Tal und beauftragten den Architekten Jaroslav Benedikt mit dem Entwurf eines Hotels im fließenden Jugendstil. 1910 öffnete das Hotel Union seine Türen.",
     "about.p2": "Mit anfangs nur acht Zimmern und Apartments wuchs das Haus bis 1930 auf 54 Zimmer. 1968 verfasste der Schriftsteller Ludvík Vaculík in genau diesen Mauern „Zweitausend Worte“ — eines der prägenden Manifeste des Prager Frühlings.",
-    "about.p3": "1959 verstaatlicht, wurde das Hotel 1991 an die Familie Rejzek zurückgegeben und liebevoll restauriert. Heute bietet das Hotel Union unter der dritten Generation 57 Zimmer und Suiten, ein Restaurant und einen Wellnessbereich — seine Jugendstil-Seele sorgsam bewahrt.",
+    "about.p3": "1959 verstaatlicht, wurde das Hotel 1991 an die Familie Rejzek zurückgegeben und liebevoll restauriert. Heute bietet das Hotel Union unter der dritten Generation 60 Zimmer und Suiten, ein Restaurant und einen Wellnessbereich — seine Jugendstil-Seele sorgsam bewahrt.",
     "about.t1": "Entworfen von Jaroslav Benedikt", "about.t1d": "Ein authentisches Jugendstil-Wahrzeichen der Prager Denkmalzone.",
     "about.t2": "Ein Manifest des Prager Frühlings", "about.t2d": "Wo im Juni 1968 „Zweitausend Worte“ geschrieben wurden.",
     "about.t3": "Drei Generationen Familie", "about.t3d": "Seit 1910 unabhängig von der Familie Rejzek geführt.",
@@ -298,7 +298,7 @@ const I18N = {
     "exp.dining.t": "Restaurant & Kulinarik",
     "exp.dining.p": "Unser geräumiges, elegantes Restaurant serviert eine großzügige Auswahl internationaler Gerichte neben böhmischen Favoriten. Beginnen Sie mit dem Frühstück, kehren Sie zum entspannten Abendessen zurück — in einem Ambiente, das das Erbe des Hauses widerspiegelt.",
     "exp.parking.t": "Parken & Praktisches",
-    "exp.parking.p": "Stadtparken ist direkt am Hotel verfügbar, täglich von 8:00 bis 20:00 Uhr zu 30 CZK pro Stunde. Unser Team hilft Ihnen gern bei Transfers, Tickets und Tipps zur Erkundung der Stadt.",
+    "exp.parking.p": "Parken Sie direkt vor dem Hotel an der weißen Linie und zahlen Sie über die CityPark-App oder den Automaten davor — kostenlos von 20:00 bis 8:00 Uhr und am ganzen Wochenende. Unsere Rezeption hilft gern mit der App, Flughafentransfers, Tickets und Tipps zur Erkundung der Stadt.",
 
     "contact.eyebrow": "Reservierung & Anfragen",
     "contact.title": "Reservieren Sie Ihren Aufenthalt",
@@ -377,6 +377,136 @@ const I18N_EXTRA = {
   }
 };
 Object.keys(I18N_EXTRA).forEach(l => Object.assign(I18N[l], I18N_EXTRA[l]));
+
+/* ---- For Guests / FAQ strings (merged into I18N) ---- */
+const I18N_FAQ = {
+  en: {
+    "nav.forguests": "For Guests",
+    "page.fg.title": "For Guests", "page.fg.crumb": "For Guests",
+    "fg.eyebrow": "Good to Know",
+    "fg.lead": "Everything you need before and during your stay — gathered in one place.",
+    "fg.intro": "Hotel Union Prague is a cosy four-star hotel in the Nusle district, moments from Vyšehrad and a ten-minute tram ride from the city centre. Our sixty air-conditioned rooms with complimentary Wi-Fi suit leisure and business travellers alike. Below are the questions our guests ask most — and our reception is here around the clock for anything else.",
+    "fg.reception": "Reception · Open 24/7", "fg.help": "Still have a question?",
+    "fg.helpnote": "Our reception team is available day and night — never hesitate to ask.",
+    "fg.gA": "Arrival & Departure", "fg.gB": "Your Stay", "fg.gC": "Dining",
+    "fg.gD": "Getting Around", "fg.gE": "House Policies", "fg.gF": "Bookings",
+    "fg.q1": "What are the check-in and check-out times?",
+    "fg.a1": "Check-in is from 2:00 PM and check-out is until 11:00 AM. Early check-in or late check-out is available for €20 each — just arrange it with reception in advance.",
+    "fg.q2": "How does check-in work?",
+    "fg.a2": "Come to the reception desk on arrival with a valid ID or passport and your reservation details. Our team completes your registration, hands over your key and runs through the hotel's services. If you've requested early check-in, please confirm it on arrival.",
+    "fg.q3": "How does check-out work?",
+    "fg.a3": "Return your room key to reception by 11:00 AM. For a late check-out, let us know in advance so we can arrange it for a small fee. We'll finalise your bill and help with any last questions before you go.",
+    "fg.q4": "Can I store my luggage?",
+    "fg.a4": "Yes — you're welcome to store luggage both before check-in and after check-out. Reception is open 24/7 and keeps the storage room locked, so simply ask whenever you need it.",
+    "fg.q5": "How often is my room cleaned?",
+    "fg.a5": "Rooms are serviced daily: cleaning, dusting and waste removal every day, with towels refreshed whenever you leave them on the floor. Bed linen is changed every four days, or sooner on request. Prefer privacy? Hang the “Do Not Disturb” sign and we'll skip your room.",
+    "fg.q6": "How do I use the coffee machine?",
+    "fg.a6": "Every room has a premium Nespresso machine. It doubles as a kettle, too — press the water-droplet button to dispense hot water.",
+    "fg.q7": "Can I bring my pet?",
+    "fg.a7": "Unfortunately pets cannot be accommodated. The only exceptions are service and guide dogs.",
+    "fg.q8": "What is your smoking policy?",
+    "fg.a8": "The entire hotel, balconies included, is strictly non-smoking. Please use the designated areas outside; a €150 fee applies for smoking inside a room.",
+    "fg.q9": "Where is breakfast served?",
+    "fg.a9": "Breakfast is served in our hotel restaurant every morning from 7:30 to 11:00 AM, priced at €10 per person. Pay by card or cash at reception or in the restaurant.",
+    "fg.q10": "Where can I park?",
+    "fg.a10": "Park directly in front of the hotel along the white line, paying via the CityPark app or the machine outside. Parking is free from 8:00 PM to 8:00 AM and all day Saturday and Sunday. Reception is happy to help with the app or machine.",
+    "fg.q11": "How do I use the transfer service?",
+    "fg.a11": "We're glad to arrange airport transfers — just ask at reception. We work with one of the city's best transport companies for a comfortable, reliable ride.",
+    "fg.q12": "How do I make a group reservation?",
+    "fg.a12": "We'd be delighted to help with group stays. Please email us at <a href=\"mailto:hotelunion@hotelunion.cz\">hotelunion@hotelunion.cz</a> and we'll take care of the arrangements."
+  },
+  cs: {
+    "nav.forguests": "Pro hosty",
+    "page.fg.title": "Pro hosty", "page.fg.crumb": "Pro hosty",
+    "fg.eyebrow": "Dobré vědět",
+    "fg.lead": "Vše, co potřebujete před pobytem i během něj — přehledně na jednom místě.",
+    "fg.intro": "Hotel Union Prague je útulný čtyřhvězdičkový hotel v pražských Nuslích, kousek od Vyšehradu a deset minut tramvají od centra. Našich šedesát klimatizovaných pokojů s bezplatným Wi-Fi se hodí turistům i obchodním cestujícím. Níže najdete nejčastější dotazy našich hostů — a naše recepce je vám k dispozici nepřetržitě.",
+    "fg.reception": "Recepce · Otevřeno 24/7", "fg.help": "Máte další dotaz?",
+    "fg.helpnote": "Naše recepce je tu pro vás ve dne v noci — neváhejte se zeptat.",
+    "fg.gA": "Příjezd a odjezd", "fg.gB": "Váš pobyt", "fg.gC": "Stravování",
+    "fg.gD": "Doprava a okolí", "fg.gE": "Pravidla hotelu", "fg.gF": "Rezervace",
+    "fg.q1": "V kolik hodin je check-in a check-out?",
+    "fg.a1": "Check-in je od 14:00 a check-out do 11:00. Předčasný check-in i pozdní check-out jsou možné za 20 EUR — stačí se předem domluvit s recepcí.",
+    "fg.q2": "Jak probíhá check-in?",
+    "fg.a2": "Při příjezdu se dostavte na recepci s platným dokladem totožnosti nebo pasem a údaji o rezervaci. Personál provede registraci, předá vám klíč a seznámí vás s hotelovými službami. Pokud jste požádali o dřívější check-in, potvrďte to prosím při příjezdu.",
+    "fg.q3": "Jak probíhá check-out?",
+    "fg.a3": "Klíč od pokoje vraťte na recepci do 11:00. Potřebujete-li pozdní check-out, dejte nám vědět předem, abychom jej za poplatek zajistili. Vyúčtujeme váš pobyt a rádi zodpovíme poslední dotazy.",
+    "fg.q4": "Mohu si uložit zavazadla?",
+    "fg.a4": "Ano — zavazadla si můžete uložit před check-inem i po check-outu. Recepce je otevřená 24/7 a úschovna zůstává vždy zamčená, takže se na nás kdykoli obraťte.",
+    "fg.q5": "Jak často se pokoj uklízí?",
+    "fg.a5": "Pokoje uklízíme denně: úklid, utírání prachu a vynášení odpadků každý den, ručníky měníme, když je necháte na podlaze. Ložní prádlo se mění každé 4 dny, na přání i dříve. Přejete si soukromí? Pověste cedulku „Nerušit“ a pokoj vynecháme.",
+    "fg.q6": "Jak používat kávovar?",
+    "fg.a6": "Každý pokoj je vybaven prémiovým kávovarem Nespresso. Slouží i jako varná konvice — stiskněte tlačítko se symbolem kapky vody pro dávkování horké vody.",
+    "fg.q7": "Mohu si přivést domácího mazlíčka?",
+    "fg.a7": "Domácí mazlíčci bohužel nejsou povoleni. Výjimku tvoří pouze asistenční a vodicí psi.",
+    "fg.q8": "Jaký je režim kouření?",
+    "fg.a8": "Celý hotel včetně balkonů je přísně nekuřácký. Kouřit lze pouze ve vyhrazených venkovních prostorách; za kouření v pokoji účtujeme poplatek 150 €.",
+    "fg.q9": "Kde se podává snídaně?",
+    "fg.a9": "Snídaně se podává v hotelové restauraci každé ráno od 7:30 do 11:00 za 10 EUR za osobu. Platit můžete kartou i hotově na recepci nebo přímo v restauraci.",
+    "fg.q10": "Kde mohu zaparkovat?",
+    "fg.a10": "Zaparkujte přímo před hotelem na bílé čáře a plaťte přes aplikaci CityPark nebo u automatu před hotelem. Parkování je zdarma od 20:00 do 8:00 a po celý den v sobotu a neděli. Recepce vám ráda pomůže s aplikací i automatem.",
+    "fg.q11": "Jak využiji transferovou službu?",
+    "fg.a11": "Rádi zajistíme transfer z/na letiště — stačí se ozvat na recepci. Spolupracujeme s jednou z nejlepších dopravních společností ve městě pro pohodlnou a spolehlivou jízdu.",
+    "fg.q12": "Jak provedu skupinovou rezervaci?",
+    "fg.a12": "Skupinové pobyty rádi zařídíme. Napište nám na <a href=\"mailto:hotelunion@hotelunion.cz\">hotelunion@hotelunion.cz</a> a o vše se postaráme."
+  },
+  de: {
+    "nav.forguests": "Für Gäste",
+    "page.fg.title": "Für Gäste", "page.fg.crumb": "Für Gäste",
+    "fg.eyebrow": "Gut zu wissen",
+    "fg.lead": "Alles, was Sie vor und während Ihres Aufenthalts brauchen — an einem Ort.",
+    "fg.intro": "Das Hotel Union Prague ist ein gemütliches Vier-Sterne-Hotel im Stadtteil Nusle, nur einen Steinwurf vom Vyšehrad entfernt und zehn Minuten mit der Straßenbahn vom Zentrum. Unsere sechzig klimatisierten Zimmer mit kostenlosem WLAN eignen sich für Urlaubs- wie Geschäftsreisende. Hier finden Sie die häufigsten Fragen unserer Gäste — und unsere Rezeption ist rund um die Uhr für Sie da.",
+    "fg.reception": "Rezeption · Rund um die Uhr", "fg.help": "Noch eine Frage?",
+    "fg.helpnote": "Unsere Rezeption ist Tag und Nacht für Sie da — fragen Sie jederzeit.",
+    "fg.gA": "An- & Abreise", "fg.gB": "Ihr Aufenthalt", "fg.gC": "Kulinarik",
+    "fg.gD": "Mobilität", "fg.gE": "Hausordnung", "fg.gF": "Buchungen",
+    "fg.q1": "Wann sind Check-in und Check-out?",
+    "fg.a1": "Check-in ist ab 14:00 Uhr, Check-out bis 11:00 Uhr. Früher Check-in oder später Check-out ist für je 20 € möglich — bitte vorab an der Rezeption vereinbaren.",
+    "fg.q2": "Wie läuft der Check-in ab?",
+    "fg.a2": "Kommen Sie bei der Ankunft mit gültigem Ausweis oder Reisepass und Ihren Reservierungsdaten zur Rezeption. Unser Team übernimmt die Registrierung, übergibt den Schlüssel und informiert über die Hotelleistungen. Bei gewünschtem frühen Check-in bestätigen Sie diesen bitte bei der Ankunft.",
+    "fg.q3": "Wie läuft der Check-out ab?",
+    "fg.a3": "Geben Sie Ihren Zimmerschlüssel bis 11:00 Uhr an der Rezeption ab. Für einen späten Check-out informieren Sie uns bitte vorab, damit wir ihn gegen eine kleine Gebühr einrichten. Wir erstellen Ihre Rechnung und helfen bei letzten Fragen.",
+    "fg.q4": "Kann ich mein Gepäck einlagern?",
+    "fg.a4": "Ja — Sie können Ihr Gepäck vor dem Check-in und nach dem Check-out einlagern. Die Rezeption ist rund um die Uhr besetzt und der Gepäckraum bleibt stets verschlossen. Sprechen Sie uns einfach an.",
+    "fg.q5": "Wie oft wird mein Zimmer gereinigt?",
+    "fg.a5": "Die Zimmer werden täglich gereinigt: Reinigung, Staubwischen und Müllentsorgung jeden Tag, Handtücher werden gewechselt, wenn Sie sie auf den Boden legen. Bettwäsche wird alle vier Tage gewechselt, auf Wunsch früher. Sie möchten Ruhe? Hängen Sie das Schild „Bitte nicht stören“ aus, und wir lassen Ihr Zimmer aus.",
+    "fg.q6": "Wie benutze ich die Kaffeemaschine?",
+    "fg.a6": "Jedes Zimmer verfügt über eine hochwertige Nespresso-Maschine. Sie dient auch als Wasserkocher — drücken Sie die Taste mit dem Wassertropfen-Symbol für heißes Wasser.",
+    "fg.q7": "Darf ich mein Haustier mitbringen?",
+    "fg.a7": "Haustiere können wir leider nicht beherbergen. Ausgenommen sind ausschließlich Assistenz- und Blindenhunde.",
+    "fg.q8": "Wie ist die Raucherregelung?",
+    "fg.a8": "Das gesamte Hotel, einschließlich der Balkone, ist strikt rauchfrei. Bitte nutzen Sie die ausgewiesenen Bereiche im Freien; für das Rauchen im Zimmer wird eine Gebühr von 150 € berechnet.",
+    "fg.q9": "Wo wird das Frühstück serviert?",
+    "fg.a9": "Das Frühstück wird täglich von 7:30 bis 11:00 Uhr in unserem Hotelrestaurant serviert, zum Preis von 10 € pro Person. Zahlung per Karte oder bar an der Rezeption oder im Restaurant.",
+    "fg.q10": "Wo kann ich parken?",
+    "fg.a10": "Parken Sie direkt vor dem Hotel an der weißen Linie und zahlen Sie über die CityPark-App oder den Automaten davor. Das Parken ist von 20:00 bis 8:00 Uhr sowie samstags und sonntags ganztägig kostenlos. Die Rezeption hilft gern mit App oder Automat.",
+    "fg.q11": "Wie nutze ich den Transferservice?",
+    "fg.a11": "Gern organisieren wir Flughafentransfers — fragen Sie einfach an der Rezeption. Wir arbeiten mit einem der besten Transportunternehmen der Stadt für eine komfortable, zuverlässige Fahrt.",
+    "fg.q12": "Wie buche ich für eine Gruppe?",
+    "fg.a12": "Gruppenaufenthalte arrangieren wir gerne. Schreiben Sie uns an <a href=\"mailto:hotelunion@hotelunion.cz\">hotelunion@hotelunion.cz</a>, und wir kümmern uns um alles."
+  }
+};
+Object.keys(I18N_FAQ).forEach(l => Object.assign(I18N[l], I18N_FAQ[l]));
+
+/* ---- UI chrome strings: cookie banner + skip link (merged into I18N) ---- */
+const I18N_UI = {
+  en: {
+    "nav.skip": "Skip to content",
+    "cookie.text": "This site uses cookies to give you the best possible experience. By continuing, you agree to our use of cookies.",
+    "cookie.accept": "Accept", "cookie.settings": "Settings"
+  },
+  cs: {
+    "nav.skip": "Přejít na obsah",
+    "cookie.text": "Tento web používá soubory cookie, aby vám poskytl co nejlepší zážitek. Pokračováním souhlasíte s jejich používáním.",
+    "cookie.accept": "Přijmout", "cookie.settings": "Nastavení"
+  },
+  de: {
+    "nav.skip": "Zum Inhalt springen",
+    "cookie.text": "Diese Website verwendet Cookies, um Ihnen das bestmögliche Erlebnis zu bieten. Durch die weitere Nutzung stimmen Sie der Verwendung von Cookies zu.",
+    "cookie.accept": "Akzeptieren", "cookie.settings": "Einstellungen"
+  }
+};
+Object.keys(I18N_UI).forEach(l => Object.assign(I18N[l], I18N_UI[l]));
 
 const LANGS = [
   { code: "en", label: "English", flag: "🇬🇧" },

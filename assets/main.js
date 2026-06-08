@@ -8,16 +8,16 @@
   document.addEventListener("DOMContentLoaded", () => {
     if (window.HU_I18N) window.HU_I18N.applyLang(window.HU_I18N.getLang());
 
-    /* Language dropdown */
+    /* Language switch — works for the desktop dropdown AND the mobile menu buttons */
+    document.querySelectorAll("[data-lang-option]").forEach(opt => {
+      opt.addEventListener("click", () => {
+        window.HU_I18N.applyLang(opt.getAttribute("data-lang-option"));
+        document.querySelectorAll("[data-lang]").forEach(w => w.classList.remove("open"));
+      });
+    });
     document.querySelectorAll("[data-lang]").forEach(wrap => {
       const btn = wrap.querySelector("[data-lang-toggle]");
       btn && btn.addEventListener("click", e => { e.stopPropagation(); wrap.classList.toggle("open"); });
-      wrap.querySelectorAll("[data-lang-option]").forEach(opt => {
-        opt.addEventListener("click", () => {
-          window.HU_I18N.applyLang(opt.getAttribute("data-lang-option"));
-          document.querySelectorAll("[data-lang]").forEach(w => w.classList.remove("open"));
-        });
-      });
     });
     document.addEventListener("click", () =>
       document.querySelectorAll("[data-lang]").forEach(w => w.classList.remove("open")));
@@ -115,6 +115,24 @@
       cf.reset(); cf.appendChild(box);
       box.scrollIntoView({ behavior: "smooth", block: "center" });
     });
+
+    /* FAQ accordion */
+    document.querySelectorAll(".faq-item").forEach(item => {
+      const q = item.querySelector(".faq-q");
+      const a = item.querySelector(".faq-a");
+      if (!q || !a) return;
+      q.setAttribute("aria-expanded", "false");
+      q.addEventListener("click", () => {
+        const open = item.classList.toggle("open");
+        q.setAttribute("aria-expanded", open);
+        a.style.maxHeight = open ? a.scrollHeight + "px" : "0";
+      });
+    });
+    document.querySelectorAll("[data-lang-option]").forEach(b => b.addEventListener("click", () => {
+      setTimeout(() => document.querySelectorAll(".faq-item.open .faq-a").forEach(a => {
+        a.style.maxHeight = a.scrollHeight + "px";
+      }), 60);
+    }));
 
     /* Year + cookie */
     document.querySelectorAll("[data-year]").forEach(el => el.textContent = new Date().getFullYear());
